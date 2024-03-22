@@ -1,3 +1,5 @@
+#César Sebastián Mercado Díaz 3/22/2024
+
 import random
 
 # Tamaño del laberinto
